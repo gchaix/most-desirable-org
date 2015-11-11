@@ -1,2 +1,7 @@
 a.out
 mostdesirable
+Makefile
+config.h
+config.log
+config.status
+mostdesirable.o
